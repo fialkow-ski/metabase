@@ -19,7 +19,7 @@
       "url": "heroku/jvm"
     },
     {
-      "url": "https://github.com/SzymonFialkowski/metabase-buildpack"
+      "url": "https://github.com/fialkow-ski/metabase"
     }
   ]
 }
